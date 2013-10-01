@@ -1,5 +1,6 @@
 #Updated for Phonegap 3.0
-# copy this folder to plugins-folder in your Phonegap project an use phonegap local plugin add -pluginname-
+copy this folder to your my-plugins-folder in your Phonegap project and use "phonegap local plugin add -pluginpath-"
+to add it
 
 
 # Calendar Plugin for Phonegap #
